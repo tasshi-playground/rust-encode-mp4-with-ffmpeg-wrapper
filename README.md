@@ -27,6 +27,7 @@ https://qiita.com/tasshi/items/de36d9add14f24317f47
 ├── target
 ├── Cargo.lock
 ├── Cargo.toml
+├── LICENSE
 ├── README.md
 └── rustacean-orig-noshadow.png # sample input image
 ```
